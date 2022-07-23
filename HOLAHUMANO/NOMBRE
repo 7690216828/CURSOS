@@ -1,0 +1,7 @@
+public Static void main (String args[]){
+
+String nombre;
+Scanner Entrada = new Scanner(System.in)
+nombre = Entrada.
+System.out.println("hola "+ nombre)
+}
